@@ -1,11 +1,33 @@
-.name1 {
-    color: rgb(69, 187, 187);}
-.name2 {
-    color: rgb(19, 127, 221);
-}
-h1,h2 {
-    font-size: 50px;
-}
 *{
-    font-family:'Courier New', Courier, monospace;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000px,400px;
+}
+#text1{
+    color: rgb(1, 2, 5);
+    font-size: 27px;
+    margin-left: 370px;
+    margin-top: 600px;
+}
+#text2{
+    color: rgb(5, 5, 189);
+    font-size: 25px;
+    margin-left: 390px;
+    margin-top: 2px;
+}
+button{
+    height: 50px;
+    width: 120px;
+    background-color: rgb(79, 130, 241);
+    margin-left: 350px;
+    margin-left: 250px;
+    font-size: 30px;
+    margin-top: 30px;
+}
+button:hover{
+    background-color: aliceblue;
 }
