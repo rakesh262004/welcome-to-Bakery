@@ -1,0 +1,11 @@
+.name1 {
+    color: rgb(69, 187, 187);}
+.name2 {
+    color: rgb(19, 127, 221);
+}
+h1,h2 {
+    font-size: 50px;
+}
+*{
+    font-family:'Courier New', Courier, monospace;
+}

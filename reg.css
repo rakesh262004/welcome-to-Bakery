@@ -1,0 +1,29 @@
+body{
+    background-image: url(gg.png);
+    background-repeat: no-repeat;
+    background-size: 600px, 200px;
+    background: lin;
+}
+form{
+    border: solid;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(69, 140, 153);
+    margin-left: 20px;
+}
+button:hover{
+    background-color: rgb(64, 164, 245);
+}
+h1{
+    color: rgb(230, 255, 6);
+    text-align: center;
+}
+label{
+    color: rgb(121, 3, 32);
+    font-size: 17px;
+}
+input{
+    height: 20px;
+    width: 190px;
+    border-radius: 23px;
+}
